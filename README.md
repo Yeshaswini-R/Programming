@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yeshaswini-R/Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yeshaswini-R/Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/Yeshaswini-R/Programming/tree/master/0202-happy-number) |
 ## Hash Table
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Yeshaswini-R/Programming/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Yeshaswini-R/Programming/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Yeshaswini-R/Programming/tree/master/0177-nth-highest-salary) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yeshaswini-R/Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
