@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yeshaswini-R/Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yeshaswini-R/Programming/tree/master/0035-search-insert-position) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshaswini-R/Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yeshaswini-R/Programming/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Yeshaswini-R/Programming/tree/master/0202-happy-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yeshaswini-R/Programming/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yeshaswini-R/Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yeshaswini-R/Programming/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yeshaswini-R/Programming/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
