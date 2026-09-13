@@ -1,9 +1,11 @@
-SELECT S.NAME
-FROM SALESPERSON S
-WHERE S.NAME NOT IN (
-    SELECT S.NAME
-    FROM SALESPERSON S
-    LEFT JOIN ORDERS O ON O.SALES_ID = S.SALES_ID
-    LEFT JOIN COMPANY C ON O.COM_ID = C.COM_ID
-    WHERE C.NAME = 'RED'
-)
+SELECT name
+FROM salesperson
+WHERE sales_id NOT IN (
+    SELECT sales_id
+    FROM orders
+    WHERE com_id IN (
+        SELECT com_id
+        FROM company
+        WHERE name = 'Red'
+    )
+);
