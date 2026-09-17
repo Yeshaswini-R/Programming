@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Yeshaswini-R/Programming/tree/master/0202-happy-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Yeshaswini-R/Programming/tree/master/1657-determine-if-two-strings-are-close) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yeshaswini-R/Programming/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -97,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Yeshaswini-R/Programming/tree/master/0836-rectangle-overlap) |
+## String
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/Yeshaswini-R/Programming/tree/master/1657-determine-if-two-strings-are-close) |
+## Sorting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/Yeshaswini-R/Programming/tree/master/1657-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/Yeshaswini-R/Programming/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
