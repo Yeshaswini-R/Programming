@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/Yeshaswini-R/Programming/tree/master/1251-average-selling-price) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Yeshaswini-R/Programming/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Yeshaswini-R/Programming/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1907-count-salary-categories](https://github.com/Yeshaswini-R/Programming/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Yeshaswini-R/Programming/tree/master/1934-confirmation-rate) |
 ## Linked List
 |  |
