@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Yeshaswini-R/Programming/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Yeshaswini-R/Programming/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Yeshaswini-R/Programming/tree/master/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/Yeshaswini-R/Programming/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/Yeshaswini-R/Programming/tree/master/1075-project-employees-i) |
 | [1164-product-price-at-a-given-date](https://github.com/Yeshaswini-R/Programming/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/Yeshaswini-R/Programming/tree/master/1174-immediate-food-delivery-ii) |
