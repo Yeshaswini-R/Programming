@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Yeshaswini-R/Programming/tree/master/0035-search-insert-position) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshaswini-R/Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yeshaswini-R/Programming/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Yeshaswini-R/Programming/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Yeshaswini-R/Programming/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/Yeshaswini-R/Programming/tree/master/0836-rectangle-overlap) |
+| [3524-find-x-value-of-array-i](https://github.com/Yeshaswini-R/Programming/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Yeshaswini-R/Programming/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Yeshaswini-R/Programming/tree/master/3871-count-commas-in-range-ii) |
 ## Floyd's Cycle Finding Algorithm
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshaswini-R/Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/Yeshaswini-R/Programming/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
 | ------- |
