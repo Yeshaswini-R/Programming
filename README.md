@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yeshaswini-R/Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yeshaswini-R/Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yeshaswini-R/Programming/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Yeshaswini-R/Programming/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshaswini-R/Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Yeshaswini-R/Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Yeshaswini-R/Programming/tree/master/0136-single-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Yeshaswini-R/Programming/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Yeshaswini-R/Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Yeshaswini-R/Programming/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/Yeshaswini-R/Programming/tree/master/0389-find-the-difference) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Yeshaswini-R/Programming/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Yeshaswini-R/Programming/tree/master/0389-find-the-difference) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yeshaswini-R/Programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Yeshaswini-R/Programming/tree/master/1657-determine-if-two-strings-are-close) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Yeshaswini-R/Programming/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Yeshaswini-R/Programming/tree/master/0389-find-the-difference) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Yeshaswini-R/Programming/tree/master/1657-determine-if-two-strings-are-close) |
 ## Counting
