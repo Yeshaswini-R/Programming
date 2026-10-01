@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yeshaswini-R/Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yeshaswini-R/Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yeshaswini-R/Programming/tree/master/0035-search-insert-position) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshaswini-R/Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Yeshaswini-R/Programming/tree/master/0128-longest-consecutive-sequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yeshaswini-R/Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yeshaswini-R/Programming/tree/master/0035-search-insert-position) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yeshaswini-R/Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
