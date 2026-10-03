@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshaswini-R/Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Yeshaswini-R/Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Yeshaswini-R/Programming/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Yeshaswini-R/Programming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yeshaswini-R/Programming/tree/master/0283-move-zeroes) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yeshaswini-R/Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yeshaswini-R/Programming/tree/master/3483-unique-3-digit-even-numbers) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Yeshaswini-R/Programming/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Yeshaswini-R/Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Yeshaswini-R/Programming/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Yeshaswini-R/Programming/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Yeshaswini-R/Programming/tree/master/0389-find-the-difference) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Yeshaswini-R/Programming/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yeshaswini-R/Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Yeshaswini-R/Programming/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Yeshaswini-R/Programming/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/Yeshaswini-R/Programming/tree/master/0836-rectangle-overlap) |
 | [3524-find-x-value-of-array-i](https://github.com/Yeshaswini-R/Programming/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yeshaswini-R/Programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yeshaswini-R/Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yeshaswini-R/Programming/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Yeshaswini-R/Programming/tree/master/0268-missing-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yeshaswini-R/Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Yeshaswini-R/Programming/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/Yeshaswini-R/Programming/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Yeshaswini-R/Programming/tree/master/0389-find-the-difference) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Yeshaswini-R/Programming/tree/master/1657-determine-if-two-strings-are-close) |
 ## Counting
@@ -178,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Yeshaswini-R/Programming/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Yeshaswini-R/Programming/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Yeshaswini-R/Programming/tree/master/0389-find-the-difference) |
 ## Union-Find
 |  |
