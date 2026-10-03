@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshaswini-R/Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Yeshaswini-R/Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Yeshaswini-R/Programming/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/Yeshaswini-R/Programming/tree/master/0283-move-zeroes) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yeshaswini-R/Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yeshaswini-R/Programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Yeshaswini-R/Programming/tree/master/3524-find-x-value-of-array-i) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yeshaswini-R/Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yeshaswini-R/Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/Yeshaswini-R/Programming/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Yeshaswini-R/Programming/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
