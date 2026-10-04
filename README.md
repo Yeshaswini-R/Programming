@@ -62,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshaswini-R/Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Yeshaswini-R/Programming/tree/master/0678-valid-parenthesis-string) |
 | [3524-find-x-value-of-array-i](https://github.com/Yeshaswini-R/Programming/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshaswini-R/Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Yeshaswini-R/Programming/tree/master/0678-valid-parenthesis-string) |
 ## Database
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Yeshaswini-R/Programming/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Yeshaswini-R/Programming/tree/master/0389-find-the-difference) |
+| [0678-valid-parenthesis-string](https://github.com/Yeshaswini-R/Programming/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yeshaswini-R/Programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Yeshaswini-R/Programming/tree/master/1657-determine-if-two-strings-are-close) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yeshaswini-R/Programming/tree/master/3498-reverse-degree-of-a-string) |
@@ -192,9 +195,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Yeshaswini-R/Programming/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yeshaswini-R/Programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Yeshaswini-R/Programming/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yeshaswini-R/Programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
