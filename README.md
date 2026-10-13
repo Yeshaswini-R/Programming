@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Yeshaswini-R/Programming/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/Yeshaswini-R/Programming/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Yeshaswini-R/Programming/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Yeshaswini-R/Programming/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Yeshaswini-R/Programming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yeshaswini-R/Programming/tree/master/0283-move-zeroes) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yeshaswini-R/Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Yeshaswini-R/Programming/tree/master/0239-sliding-window-maximum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yeshaswini-R/Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
@@ -221,4 +223,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Yeshaswini-R/Programming/tree/master/0229-majority-element-ii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Yeshaswini-R/Programming/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Yeshaswini-R/Programming/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Yeshaswini-R/Programming/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Yeshaswini-R/Programming/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
