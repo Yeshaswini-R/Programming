@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Yeshaswini-R/Programming/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Yeshaswini-R/Programming/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Yeshaswini-R/Programming/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Yeshaswini-R/Programming/tree/master/0389-find-the-difference) |
 ## Union-Find
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yeshaswini-R/Programming/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Yeshaswini-R/Programming/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
