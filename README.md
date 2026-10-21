@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Yeshaswini-R/Programming/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/Yeshaswini-R/Programming/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/Yeshaswini-R/Programming/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/Yeshaswini-R/Programming/tree/master/1084-sales-analysis-iii) |
 | [1164-product-price-at-a-given-date](https://github.com/Yeshaswini-R/Programming/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/Yeshaswini-R/Programming/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Yeshaswini-R/Programming/tree/master/1193-monthly-transactions-i) |
