@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Yeshaswini-R/Programming/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Yeshaswini-R/Programming/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/Yeshaswini-R/Programming/tree/master/0836-rectangle-overlap) |
+| [2409-count-days-spent-together](https://github.com/Yeshaswini-R/Programming/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/Yeshaswini-R/Programming/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yeshaswini-R/Programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Yeshaswini-R/Programming/tree/master/3870-count-commas-in-range) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yeshaswini-R/Programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Yeshaswini-R/Programming/tree/master/1657-determine-if-two-strings-are-close) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yeshaswini-R/Programming/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2409-count-days-spent-together](https://github.com/Yeshaswini-R/Programming/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yeshaswini-R/Programming/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
