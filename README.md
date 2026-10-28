@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yeshaswini-R/Programming/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Yeshaswini-R/Programming/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Yeshaswini-R/Programming/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yeshaswini-R/Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yeshaswini-R/Programming/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshaswini-R/Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Yeshaswini-R/Programming/tree/master/0678-valid-parenthesis-string) |
 | [3524-find-x-value-of-array-i](https://github.com/Yeshaswini-R/Programming/tree/master/3524-find-x-value-of-array-i) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yeshaswini-R/Programming/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Yeshaswini-R/Programming/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Yeshaswini-R/Programming/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Yeshaswini-R/Programming/tree/master/0389-find-the-difference) |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Yeshaswini-R/Programming/tree/master/0190-reverse-bits) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yeshaswini-R/Programming/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
