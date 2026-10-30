@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yeshaswini-R/Programming/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Yeshaswini-R/Programming/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Yeshaswini-R/Programming/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Yeshaswini-R/Programming/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/Yeshaswini-R/Programming/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/Yeshaswini-R/Programming/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yeshaswini-R/Programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
