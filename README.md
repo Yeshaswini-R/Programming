@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Yeshaswini-R/Programming/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Yeshaswini-R/Programming/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Yeshaswini-R/Programming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Yeshaswini-R/Programming/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Yeshaswini-R/Programming/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Yeshaswini-R/Programming/tree/master/0268-missing-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Yeshaswini-R/Programming/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Yeshaswini-R/Programming/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Yeshaswini-R/Programming/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Yeshaswini-R/Programming/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Yeshaswini-R/Programming/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/Yeshaswini-R/Programming/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yeshaswini-R/Programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Yeshaswini-R/Programming/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yeshaswini-R/Programming/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yeshaswini-R/Programming/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Yeshaswini-R/Programming/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Yeshaswini-R/Programming/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Yeshaswini-R/Programming/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Yeshaswini-R/Programming/tree/master/0268-missing-number) |
