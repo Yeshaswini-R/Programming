@@ -211,10 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yeshaswini-R/Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Yeshaswini-R/Programming/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yeshaswini-R/Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Yeshaswini-R/Programming/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yeshaswini-R/Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Yeshaswini-R/Programming/tree/master/0100-same-tree) |
 ## Sliding Window
 |  |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yeshaswini-R/Programming/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Yeshaswini-R/Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Yeshaswini-R/Programming/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yeshaswini-R/Programming/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yeshaswini-R/Programming/tree/master/1910-remove-all-occurrences-of-a-substring) |
