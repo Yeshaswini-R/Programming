@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Yeshaswini-R/Programming/tree/master/0283-move-zeroes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yeshaswini-R/Programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yeshaswini-R/Programming/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Yeshaswini-R/Programming/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Yeshaswini-R/Programming/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yeshaswini-R/Programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Yeshaswini-R/Programming/tree/master/3524-find-x-value-of-array-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Yeshaswini-R/Programming/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yeshaswini-R/Programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Yeshaswini-R/Programming/tree/master/0678-valid-parenthesis-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Yeshaswini-R/Programming/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Database
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Yeshaswini-R/Programming/tree/master/0389-find-the-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yeshaswini-R/Programming/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Yeshaswini-R/Programming/tree/master/1657-determine-if-two-strings-are-close) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Yeshaswini-R/Programming/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting
 |  |
 | ------- |
